@@ -1,0 +1,11 @@
+{
+    "name": "rayha/php",
+    "autoload": {
+        "psr-4": {
+            "Rayha\\Php\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.6"
+    }
+}
